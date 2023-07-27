@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 255, 127);
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.new{
+    width: 310px;
+    padding: 20;
+    bottom: 1px;color: #c0e658;
+margin: 20px;
+ 
+}
+ul{align-items: baseline;
+    font-size: 40px;
+    list-style: none;
+}
